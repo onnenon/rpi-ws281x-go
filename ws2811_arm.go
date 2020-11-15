@@ -26,7 +26,7 @@ package ws2811
 // #include <stdint.h>
 // #include <stdlib.h>
 // #include <string.h>
-// #include <ws2811.h>
+// #include <ws2811/ws2811.h>
 import "C"
 
 import (
