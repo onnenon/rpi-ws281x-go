@@ -1,4 +1,4 @@
-module github.com/rpi-ws281x/rpi-ws281x-go
+module github.com/onnenon/rpi-ws281x-go
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
